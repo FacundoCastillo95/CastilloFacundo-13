@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Lapicera",
+        "price": 100,
+        "thumbnail": "https://cdn2.iconfinder.com/data/icons/tools-and-devices/512/Parker_Jotter.png",
+        "id": 1
+    },
+    {
+        "title": "Lapiz",
+        "price": 90,
+        "thumbnail": "https://cdn0.iconfinder.com/data/icons/ie_Bright/512/pen_write_edit.png",
+        "id": 2
+    },
+    {
+        "title": "Regla",                                                                                                                          
+        "price": 150,                                                                                                                                     
+        "thumbnail": "https://cdn0.iconfinder.com/data/icons/education-flat-7/128/31_Ruler-512.png",
+        "id": 3
+    }
+]
